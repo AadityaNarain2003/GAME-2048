@@ -1,0 +1,2 @@
+# GAME-2048
+An attempt at creating a 2048 on JAVA SWING AND CUSTOM ALGORITHM.
