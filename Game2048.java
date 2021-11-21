@@ -1,12 +1,9 @@
 /*
-first i need to create the board, initialize the num array  and also the jlabel
-then i need ot create the action on the keys
+VERSION 1.0
+ GAME OF 2048 -CUSTOM GAME LOGIC
+CONTAINS THE GUI FOR THE GAME BOARD, KEY LOGIC
+NEED TO MAKE SCORE, BEST SCORE, END GAME LOGIC AND ALSO THE LOGIC FOR WHEN NEW NUMBERS ARE ADDED
 */
-//need to make all types of boxes(made till 256, need to make the rest))
-//need to make keylisteners for all 4 arrows
-//need to check conditions for all 4 arrows
-//need to generate new boxes for empty rows or columns
-//need to do  the score check for all
 package gamesfinal;
 import java.awt.*;
 import java.awt.event.*;
